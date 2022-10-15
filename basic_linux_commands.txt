@@ -68,3 +68,5 @@ HDDには、システムデータ、ユーザーデータ（複数）などの�
 　　・手順
 　　　１.mkdir Documents/1015test
 　　　２.mv Documents/yuuta/basic_linux_commands.txt Documents/1015test/yuuta.txt
+　　　
+　　　
